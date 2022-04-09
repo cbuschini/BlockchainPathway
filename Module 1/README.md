@@ -7,4 +7,4 @@
 
 (2) Chain validated
 
-![Chain Validated](chain validated.png)
+![Chain Validated](chain_validated.png)
